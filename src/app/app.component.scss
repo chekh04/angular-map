@@ -1,0 +1,9 @@
+:host {
+  .content {
+    display: flex;
+    gap: 20px;
+    .map-wrapper {
+      width: 100%;
+    }
+  }
+}
